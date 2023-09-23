@@ -21,4 +21,4 @@ else
     max = b;
 }
 
-Console.WriteLine(max);
+Console.WriteLine($"{a} vs {b} - > {max}");
